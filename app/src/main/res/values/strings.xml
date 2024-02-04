@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Homework9XML</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
 </resources>
